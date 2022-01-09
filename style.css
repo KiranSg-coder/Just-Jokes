@@ -1,0 +1,26 @@
+body {
+    width: 350px;
+    height: 250px;
+  
+   background: #f1efd8 url("background.png");
+   background-repeat: no repeat;
+   background-size: 100% 100%;   
+    display: flex;
+    justify-content: center;
+    border:1px solid rgb(208, 239, 241);
+    
+    
+}
+
+p {
+    display: inner-flex;
+    margin: auto 15px;
+    font-size: 22px;
+    color: rgb(210, 240, 238);
+    
+    border-radius: 9px;
+    padding: 15px;
+    font-family:'Times New Roman', Times, serif;
+   
+
+}
